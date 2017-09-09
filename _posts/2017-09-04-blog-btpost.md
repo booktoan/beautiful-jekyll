@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blog BT news post
-image: /img/hocgiaicom.png
+image: blogbt/img/hocgiaicom.png
 tags: [hocgiai, exciting-stuff]
 ---
 
