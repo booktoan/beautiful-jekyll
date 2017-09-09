@@ -1,15 +1,8 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://booktoan.github.io/blogbt"
 baseurl: "/blogbt"
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -28,7 +21,7 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Author's home: "https://booktoan.com"
 
 # --- Background colour/image options --- #
 
@@ -47,7 +40,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Blogbt
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -68,7 +61,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
@@ -91,9 +84,9 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
-
+  rss: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "ehoc.net"
@@ -147,7 +140,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+link-tags: true
 
 # Exclude these files from production site
 exclude:
