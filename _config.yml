@@ -1,7 +1,7 @@
 # --- General options --- #
 
-url: "https://booktoan.github.io/blogbt"
-baseurl: "/blogbt"
+url: "http://hoconline.xyz"
+baseurl: ""
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -89,7 +89,7 @@ share-links-active:
   rss: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ehoc.net"
+url-pretty: "hoconline.xyz"
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
