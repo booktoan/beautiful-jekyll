@@ -7,10 +7,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Blog BT
+title: Hoc online
 
 # Short description of your site
-description: Blog hoc tap
+description: Blog hoc tap online
 
 # --- Navigation bar options --- #
 
@@ -18,11 +18,10 @@ description: Blog hoc tap
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://booktoan.com"
-
+    - Hoc giai: "https://hocgiai.com"
+    - sach toan: "https://booktoan.com/"
+    - Ebook: "https://ebooktoan.com/"
+ 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
@@ -140,8 +139,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: true
-
+link-tags: false
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
