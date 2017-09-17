@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hoc online
-subtitle: Each post also has a subtitle
+subtitle: Viet blog cho van de hoc tap
 ---
 
 “Thầy cô online” truyền đạt tri thức như thế nào?   
